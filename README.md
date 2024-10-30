@@ -1,6 +1,6 @@
 # Data Mining with Orange: Classification, Clustering, and Confusion Matrix Analysis
 
-In this project, I leveraged Orange, a data mining and visualization tool, to explore various machine learning techniques through practical application on raw datasets.
+In this project, I leveraged Orange, a data mining and visualization tool, to explore various machine learning techniques through practical application on raw datasets. 
 
 ## 1. Classification with Decision Trees:
 
